@@ -1,4 +1,4 @@
-//Eg: 121 is a palindrome number
+//Eg: 121 is a palindrome number as the reverse is also same
 
 function isPalindrome(num) {
     if(num < 0 ) return false
